@@ -15,3 +15,5 @@ Send an email to `dn42 at iwarp dot org` with the following information:
   - Tunnel IPv4 address and/or IPv6 address on your side. A link-local IPv6 address is prefered.
   - Multiprotocol BGP supported or not. If yes, the link-local address on my side will be `fe80::<last 4 digits of your ASN>`
 - Any other info
+
+You can also find me at `telegram:@im_yux` or `irc:yux@hackint`.
